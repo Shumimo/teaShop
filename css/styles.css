@@ -47,13 +47,13 @@ h2 {
 }
 
 .teaItem, .teaCollection {
-    background-color: cadetblue;
+    /* background-color: cadetblue; */
     text-align: left;
     width: 75%;
 }
 
 .teaPrice, .collectionPrice {
-    background-color: coral;
+    /* background-color: coral; */
     text-align: right;
     width: 25%;
 }
