@@ -1,0 +1,55 @@
+h1, h2, p {
+    text-align: center;
+}
+
+body {
+    background-color: mintcream;
+    background-image: url("../images/heyuteahousebg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: adelle-sans, sans-serif;
+}
+
+.teaMenu {
+    background-color: mintcream;
+    width: 80%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 35px;
+    border-radius: 50px;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 60px;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.slogan {
+    font-weight: 400;
+    font-style: italic;
+    margin-top: -25px;
+}
+
+.product p{
+    display: inline-block;
+}
+
+.collection p{
+    display: inline-block;
+}
+
+.teaItem, .teaCollection {
+    text-align: left;
+    width: 50%;
+}
+
+.teaPrice, .collectionPrice {
+    text-align: right;
+    width: 50%;
+}
