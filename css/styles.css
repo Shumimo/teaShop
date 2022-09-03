@@ -8,6 +8,8 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     font-family: adelle-sans, sans-serif;
+    padding: 45px;
+
 }
 
 .teaMenu {
@@ -56,6 +58,7 @@ hr{
     margin-top: 25px;
     margin-bottom: 30px;
 }
+
 .product p{
     display: inline-block;
 }
