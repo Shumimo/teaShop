@@ -9,7 +9,6 @@ body {
     background-repeat: no-repeat;
     font-family: adelle-sans, sans-serif;
     padding: 45px;
-
 }
 
 .teaMenu {
@@ -61,10 +60,16 @@ hr{
 
 .product p{
     display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 16px;
 }
 
 .collection p{
     display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 16px;
 }
 
 .teaItem, .teaCollection {
