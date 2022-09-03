@@ -17,8 +17,6 @@ body{
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
     padding: 35px;
     border-radius: 50px;
 }
@@ -26,6 +24,7 @@ body{
 h1{
     font-weight: 800;
     font-size: 60px;
+    margin: 0;
 }
 
 h2{
@@ -36,7 +35,15 @@ h2{
 .slogan {
     font-weight: 400;
     font-style: italic;
-    margin-top: -25px;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -15px;
 }
 
 hr{
@@ -94,9 +101,11 @@ a{
     color: black;
 }
 
+/* Pseudo CSS
 a:link{
     color: darkslategray;
 }
+
 a:visited{
     color: mediumseagreen;
 }
@@ -108,3 +117,4 @@ a:hover{
 a:active{
     color: midnightblue;
 }
+*/
