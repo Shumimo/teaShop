@@ -1,8 +1,8 @@
-h1, h2, p {
+h1, h2, p{
     text-align: center;
 }
 
-body {
+body{
     background-color: mintcream;
     background-image: url("../images/heyuteahousebg.png");
     background-size: cover;
@@ -11,7 +11,7 @@ body {
     padding: 45px;
 }
 
-.teaMenu {
+.teaMenu{
     background-color: mintcream;
     width: 80%;
     max-width: 600px;
@@ -23,12 +23,12 @@ body {
     border-radius: 50px;
 }
 
-h1 {
+h1{
     font-weight: 800;
     font-size: 60px;
 }
 
-h2 {
+h2{
     font-weight: 600;
     font-size: 30px;
 }
@@ -82,4 +82,10 @@ hr{
     /* background-color: coral; */
     text-align: right;
     width: 25%;
+}
+
+/* Footer */
+
+footer{
+    font-size: 14px;
 }
